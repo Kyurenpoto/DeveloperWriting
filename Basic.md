@@ -92,9 +92,9 @@
     * parameter: 매개변수(함수에 정의)
     * argument: 전달 인자(함수에 전달)
     * attribute/property: 속성
-  * __조동사__
-    * must: 필수
-    * should: 권장
+* __조동사__
+  * must: 필수
+  * should: 권장
     
 ### 외래어
 
