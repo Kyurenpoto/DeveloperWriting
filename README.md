@@ -1,5 +1,7 @@
 # 개발자의 글쓰기
 
+[동명의 책](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158391744&orderClick=LAG&Kc=)의 내용을 정리
+
 ## 개발자 글쓰기의 특징
 
 * __정확성__
