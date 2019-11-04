@@ -21,7 +21,7 @@
 
 ## [에러 메시지](ErrorMessage.md)
 
-## 릴리스 문서, 장애 보고서
+## [릴리스 노트, 장애 보고서](ReleaseDisabilityReport.md)
 
 ## 개발 가이드
 
